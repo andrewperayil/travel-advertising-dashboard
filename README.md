@@ -91,28 +91,6 @@ This dashboard addresses these challenges by providing data-driven answers to st
 - Expected impact quantification (25-30% improvement potential)
 - Implementation timeline and resource requirements
 
-## 🛠️ Technology Stack
-
-### Frontend Framework
-- **React 18.0** - Modern component-based architecture
-- **Hooks** - useState for interactive state management
-- **JSX** - Declarative UI composition
-
-### Data Visualization
-- **Recharts 2.8** - Professional charting library
-- **Custom tooltips** - Enhanced data exploration
-- **Responsive containers** - Cross-device compatibility
-
-### Styling & Design
-- **Tailwind CSS** - Utility-first styling framework
-- **Expedia Brand Colors** - Professional corporate aesthetics
-- **Lucide React** - Consistent iconography
-
-### Build & Deployment
-- **Create React App** - Development environment
-- **GitHub Pages** - Static site hosting
-- **GitHub Actions** - Automated deployment pipeline
-
 ## 📊 Data Analysis
 
 ### Survey Methodology

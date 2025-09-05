@@ -10,9 +10,7 @@
 
 This project presents a comprehensive analysis of travel advertising effectiveness across different platforms and customer journey stages. Built as an executive dashboard for strategic decision-making, it transforms raw survey data into actionable business insights.
 
-**Context**: Conducted for Expedia to understand how sponsored travel content influences consumer decision-making throughout the travel planning and booking journey.
-
-**Audience**: C-suite executives (CEO, Head of Marketing) requiring data-driven insights for advertising strategy and budget allocation decisions.
+**Context**: Conducted for an Externship with Extern, Expedia to understand how sponsored travel content influences consumer decision-making throughout the travel planning and booking journey.
 
 ## 🔍 Problem Statement
 
@@ -120,12 +118,10 @@ This dashboard addresses these challenges by providing data-driven answers to st
 **Social Media Conversion Optimization**
 - Current: 13.3% conversion rate
 - Potential: 40-60% improvement
-- Business Impact: $XXX,XXX annual revenue increase
 
 **Deal/Discount Messaging Enhancement**
 - Current: 50% influence factor (highest)
 - Implementation Effort: Low (30%)
-- ROI Timeline: 4-6 weeks
 
 **Search Engine Expansion**
 - Current: 0% conversion rate

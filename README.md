@@ -135,7 +135,8 @@ This dashboard addresses these challenges by providing data-driven answers to st
 - **Executive alignment** on advertising strategy priorities
 
 ## Screenshots
-![Dashboard Overview]
+Dashboard Overview
+
 <img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/3fc3c03f-858d-4992-8335-f83fc5abb4c3" />
 <img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/6134232f-c3ec-47ca-9cb8-9b190abd5049" />
 <img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/24d08b1b-b192-4569-9030-67084b581d14" />

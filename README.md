@@ -136,3 +136,9 @@ This dashboard addresses these challenges by providing data-driven answers to st
 
 ## Screenshots
 ![Dashboard Overview](screenshots/overview.png)
+<img width="1920" height="1080" alt="Screenshot (63)" src="https://github.com/user-attachments/assets/6134232f-c3ec-47ca-9cb8-9b190abd5049" />
+<img width="1920" height="1080" alt="Screenshot (64)" src="https://github.com/user-attachments/assets/24d08b1b-b192-4569-9030-67084b581d14" />
+<img width="1920" height="1080" alt="Screenshot (65)" src="https://github.com/user-attachments/assets/a6d24aef-18c9-4bb1-88e3-53a4410cc961" />
+<img width="1920" height="1080" alt="Screenshot (66)" src="https://github.com/user-attachments/assets/9042342f-7f4f-452f-9f4e-458f9b1612f0" />
+<img width="1920" height="1080" alt="Screenshot (67)" src="https://github.com/user-attachments/assets/9cb12794-74e7-4dc6-b78c-20ca7daa0628" />
+<img width="1920" height="1080" alt="Screenshot (62)" src="https://github.com/user-attachments/assets/3fc3c03f-858d-4992-8335-f83fc5abb4c3" />
